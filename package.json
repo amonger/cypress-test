@@ -1,0 +1,22 @@
+{
+  "name": "cypress-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amonger/cypress-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amonger/cypress-test/issues"
+  },
+  "homepage": "https://github.com/amonger/cypress-test#readme",
+  "dependencies": {
+    "cypress": "^12.7.0"
+  }
+}
